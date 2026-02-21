@@ -1,5 +1,5 @@
 # system-analysis-and-design-snhu
-A portfolio of projects completed and progress made throughout CS255 at SNHU<br>
+A portfolio of projects completed and progress made throughout CS255 at SNHU<br><br>
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 What did you do particularly well?
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
